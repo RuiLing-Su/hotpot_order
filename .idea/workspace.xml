@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c400ddb6-1630-423a-a9e6-008cf71a6a8a" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/hotpotOrder.sql" afterDir="false" />
+    <list default="true" id="c400ddb6-1630-423a-a9e6-008cf71a6a8a" name="变更" comment="上传相关文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +50,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2024\java\project\bok\hotpot_order\src\main\resources\static" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,8 +163,44 @@
       <option name="presentableId" value="Default" />
       <updated>1723787992839</updated>
       <workItem from="1723787996270" duration="74000" />
-      <workItem from="1727934187498" duration="780000" />
+      <workItem from="1727934187498" duration="1853000" />
     </task>
+    <task id="LOCAL-00001" summary="上传相关文件">
+      <created>1727935067169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727935067169</updated>
+    </task>
+    <task id="LOCAL-00002" summary="上传相关文件">
+      <created>1727935207704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727935207704</updated>
+    </task>
+    <task id="LOCAL-00003" summary="上传相关文件">
+      <created>1727935258696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727935258696</updated>
+    </task>
+    <task id="LOCAL-00004" summary="上传相关文件">
+      <created>1727935312528</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727935312528</updated>
+    </task>
+    <task id="LOCAL-00005" summary="上传相关文件">
+      <created>1727935363649</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727935363649</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,10 +211,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="上传相关文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="上传相关文件" />
   </component>
 </project>
